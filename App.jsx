@@ -1,5 +1,5 @@
 // src/App.jsx
-import Navbar from './components/Navbar';
+import Navbar from './components/navbar';
 import HeroSection from './components/HeroSection';
 import ProjectsSection from './components/ProjectsSection';
 import Competencies from './components/competencies';
